@@ -1,0 +1,7 @@
+{
+  "name": "vue-cli-plugin-style-resources-loader",
+  "version": "0.1.1",
+  "description": "Support style-resources-loader.",
+  "author": "nguyenvanduocit@gmail.com",
+  "license": "MIT"
+}
