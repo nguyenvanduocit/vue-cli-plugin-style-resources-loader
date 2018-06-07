@@ -1,7 +1,12 @@
 {
   "name": "vue-cli-plugin-style-resources-loader",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Support style-resources-loader.",
   "author": "nguyenvanduocit@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nguyenvanduocit/vue-cli-plugin-style-resources-loader.git"
+  },
+  "homepage": "https://github.com/nguyenvanduocit/vue-cli-plugin-style-resources-loader/#readme"
 }
