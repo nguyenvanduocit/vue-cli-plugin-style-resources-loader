@@ -1,7 +1,7 @@
 module.exports = (api, options, rootOptions) => {
   api.extendPackage({
     devDependencies: {
-      'style-resources-loader': '^1.1.0'
+      'style-resources-loader': '^1.2.1'
     },
     vue: {
       pluginOptions: {
