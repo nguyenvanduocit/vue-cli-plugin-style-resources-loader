@@ -7,7 +7,7 @@ Add style-resources-loader to your project easier.
 # Installation
 
 ```
-vue add style-resources-loader
+yarn add style-resources-loader
 ```
 
 # Config
