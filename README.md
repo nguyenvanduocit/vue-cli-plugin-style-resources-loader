@@ -22,7 +22,7 @@ module.exports = {
   pluginOptions: {
     'style-resources-loader': {
       'patterns': [
-        path.resolve(__dirname, 'src/styles/abstracts/*.styl'),
+        path.resolve(__dirname, './src/styles/abstracts/*.styl'),
       ]
     }
   }
