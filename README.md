@@ -1,5 +1,6 @@
 # Introduction
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnguyenvanduocit%2Fvue-cli-plugin-style-resources-loader.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnguyenvanduocit%2Fvue-cli-plugin-style-resources-loader?ref=badge_shield)
+[![npm version](https://badge.fury.io/js/vue-cli-plugin-style-resources-loader.svg)](https://badge.fury.io/js/vue-cli-plugin-style-resources-loader)
 
 
 Add style-resources-loader to your project easier.
