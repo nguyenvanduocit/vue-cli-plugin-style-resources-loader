@@ -13,14 +13,14 @@ vue add style-resources-loader
 
 # Config
 
-Define your resource's patterns under `pluginOptions` > `style-resources-loader` in vue.config.js.
+Define your resource's patterns under `pluginOptions` > `style-resources-loader` in file `vue.config.js`.
 
 | Name         | Data type | Description                            |
 |--------------|-----------|----------------------------------------|
-| preProcessor | string    | One of: sass/scss/stylus               |
+| preProcessor | string    | One of: sass, scss, stylus, less       |
 | patterns     | array     | Array of file path pattern for loading |
 
-Example
+### Example
 
 ```js
 const path = require('path')
