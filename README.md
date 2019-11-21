@@ -18,7 +18,11 @@ Define your resource's patterns under `pluginOptions` > `style-resources-loader`
 | Name         | Data type | Description                            |
 |--------------|-----------|----------------------------------------|
 | preProcessor | string    | One of: sass, scss, stylus, less       |
-| patterns     | array     | Array of file path pattern for loading |
+| patterns     | string, array     | Path to the resources you would like to inject |
+
+## patterns
+
+Please read more at [patterns](https://github.com/yenshih/style-resources-loader#patterns).
 
 ### Example
 
