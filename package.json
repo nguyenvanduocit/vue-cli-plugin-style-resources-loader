@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-style-resources-loader",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "vue-cli plugin to add style-resources-loader",
   "author": "nguyenvanduocit@gmail.com",
   "license": "MIT",
